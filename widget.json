@@ -1,0 +1,6 @@
+{
+  "name": “mail-count-read.widget",
+  "description": "Displays the count of unread mail messages and from:, subject: header.”,
+  "author": "Andy Dishong",
+  "email": "adishong@yahoo.com"
+}
